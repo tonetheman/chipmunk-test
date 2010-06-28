@@ -1,3 +1,10 @@
+
+ABOUT:
+this is really a clone of the chipmunk engine.
+i am testing my own stuff with it... i left the original readme below.
+it now compiles on ubuntu.
+i removed a bunch of the ._ files 
+
 ABOUT:
 Chipmunk is a simple, lightweight and fast 2D rigid body physics library written in C. It's licensed under the unrestrictive, OSI approved MIT license. My aim is to give 2D developers access the same quality of physics you find in newer 3D games. I hope you enjoy using Chipmunk, and please consider donating to help make it worth our time to continue to support Chipmunk with great new features.
 
