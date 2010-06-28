@@ -38,6 +38,9 @@ int main() {
 	for(int i=0;i<10;i++) {
 		// update the space
 		cpSpaceStep(space, 1.0f/60.0f);
+
+		cpVect v = cpBodyGetPos(ballBody);
+		cout << v.x << " " << v.y << endl;
 	}
 
 
