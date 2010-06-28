@@ -1,0 +1,157 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* iPhoneSnap */ = {
+		activeExec = 0;
+		executables = (
+			D3658AF2112F5A9500D192F5 /* iPhoneSnap */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = D3658AF2112F5A9500D192F5 /* iPhoneSnap */;
+		activeSDKPreference = iphoneos3.1.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* iPhoneSnap */;
+		codeSenseManager = D3658AF9112F5A9D00D192F5 /* Code sense */;
+		executables = (
+			D3658AF2112F5A9500D192F5 /* iPhoneSnap */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					212,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					322,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					282,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 295303864;
+			PBXWorkspaceStateSaveDate = 295303864;
+		};
+		perUserProjectItems = {
+			D3FA15D71199FAF6007DCFAC /* PBXTextBookmark */ = D3FA15D71199FAF6007DCFAC /* PBXTextBookmark */;
+			D3FA15D81199FAF6007DCFAC /* PBXTextBookmark */ = D3FA15D81199FAF6007DCFAC /* PBXTextBookmark */;
+		};
+		sourceControlManager = D3658AF8112F5A9D00D192F5 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	D3658AF2112F5A9500D192F5 /* iPhoneSnap */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = iPhoneSnap;
+		sourceDirectories = (
+		);
+	};
+	D3658AF8112F5A9D00D192F5 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	D3658AF9112F5A9D00D192F5 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	D3FA15D31199FAF2007DCFAC /* ObjectiveChipmunk.h */ = {
+		isa = PBXFileReference;
+		name = ObjectiveChipmunk.h;
+		path = "/Users/slembcke/Desktop/Chipmunk-5.2.0/Objective-Chipmunk/iPhoneSnap/../Objective-Chipmunk-simulator/ObjectiveChipmunk.h";
+		sourceTree = "<absolute>";
+	};
+	D3FA15D61199FAF2007DCFAC /* ObjectiveChipmunk.h */ = {
+		isa = PBXFileReference;
+		name = ObjectiveChipmunk.h;
+		path = "/Users/slembcke/Desktop/Chipmunk-5.2.0/Objective-Chipmunk/iPhoneSnap/../Objective-Chipmunk-simulator/ObjectiveChipmunk.h";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {512, 402}}";
+			sepNavSelRange = "{49, 88}";
+			sepNavVisRange = "{0, 519}";
+		};
+	};
+	D3FA15D71199FAF6007DCFAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D3FA15D31199FAF2007DCFAC /* ObjectiveChipmunk.h */;
+		rLen = 1;
+		rLoc = 1;
+		rType = 1;
+	};
+	D3FA15D81199FAF6007DCFAC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D3FA15D61199FAF2007DCFAC /* ObjectiveChipmunk.h */;
+		name = "ObjectiveChipmunk.h: 2";
+		rLen = 88;
+		rLoc = 49;
+		rType = 0;
+		vrLen = 519;
+		vrLoc = 0;
+	};
+}
